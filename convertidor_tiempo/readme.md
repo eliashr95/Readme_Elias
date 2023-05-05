@@ -1,4 +1,5 @@
 Funcion result <- timeConverter (number)
+
 	Definir result Como Caracter;
 	Definir days, hours, minutes, seconds Como Entero;
 	seconds = number % 60;
