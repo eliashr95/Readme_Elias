@@ -1,4 +1,4 @@
-let numero = 500
+let numero = 400
 
 if(numero =>500){
     console.log("Usted si aplica al prestamo")
