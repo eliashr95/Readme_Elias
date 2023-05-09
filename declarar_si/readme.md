@@ -1,3 +1,4 @@
+```javascript
 let numero = 400
 
 if(numero =>500){
@@ -5,3 +6,4 @@ if(numero =>500){
 }else{
     console.log("Usted no aplica al prestamo")
 }
+```
